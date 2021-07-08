@@ -7,7 +7,7 @@ This is a simple Docker container that packages the needed dependencies to build
 
 Build the container
 
-	docker build -t purism-boot .
+	docker build -t pureboot-build .
 
 ## Build Pureboot
 
